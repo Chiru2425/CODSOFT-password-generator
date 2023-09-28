@@ -1,1 +1,1 @@
-# CODSOFT-password-generator
+# CODSOFT-2nd-Task-Password-Generator
